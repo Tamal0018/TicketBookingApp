@@ -49,8 +49,8 @@ This is a **Spring Boot-based** Movie Ticket Booking System that allows users to
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/movie-ticket-booking.git
-   cd movie-ticket-booking
+   git clone https://github.com/Tamal0018/TicketBookingApp.git
+   
    ```
 
 2. **Configure Database:**
