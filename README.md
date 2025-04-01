@@ -2,6 +2,11 @@
 
 This is a **Spring Boot-based** Movie Ticket Booking System that allows users to browse movies, select seats, and book tickets seamlessly. The project is built using **Java, Spring Boot, and MySQL**.
 
+## 🎥 Demo
+
+- [Project Overview](https://youtu.be/Imqb8kQ6ZWQ)
+- [Project Demo Video](https://youtu.be/Imqb8kQ6ZWQ)
+
 ## 🚀 Features
 
 - User authentication and registration
@@ -73,9 +78,3 @@ This is a **Spring Boot-based** Movie Ticket Booking System that allows users to
      - `POST /movies/add` - Add a new movie (Admin)
      - `GET /movies/all` - Fetch available movies
      - `POST /tickets/book` - Book a ticket
-
-## 🎥 Demo
-
-- [Project Demo Video](https://youtu.be/Imqb8kQ6ZWQ)
-
-
