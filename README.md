@@ -4,7 +4,7 @@ This is a **Spring Boot-based** Movie Ticket Booking System that allows users to
 
 ## 🎥 Demo
 
-- [Project Overview](https://youtu.be/Imqb8kQ6ZWQ)
+- [Project Overview](docs/Online Movie Ticket Booking Application.pptx)
 - [Project Demo Video](https://youtu.be/Imqb8kQ6ZWQ)
 
 ## 🚀 Features
