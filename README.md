@@ -76,5 +76,6 @@ This is a **Spring Boot-based** Movie Ticket Booking System that allows users to
 
 ## 🎥 Demo
 
-- [Project Demo Video](#https://youtu.be/Imqb8kQ6ZWQ)
+- [Project Demo Video](https://youtu.be/Imqb8kQ6ZWQ)
+
 
